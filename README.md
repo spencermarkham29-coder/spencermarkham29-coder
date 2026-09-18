@@ -18,11 +18,47 @@ I'm an aspiring data analyst with an interest in sports analytics, data visualiz
 ## Projects
 
 ###  Football Analytics
-Analysis of football data using statistical and data analytics techniques.
+# NFL Quarterback Performance Analysis
 
-**Tools:** R, Python, SQL
+## Overview
 
-*Project coming soon*
+This project analyzes NFL quarterback performance using 2025 regular-season data from nflverse.
+
+The goal is to compare quarterback passing volume and efficiency using traditional statistics and Expected Points Added (EPA).
+
+## Research Questions
+
+- Which quarterbacks generated the most passing EPA per attempt?
+- How does passing efficiency vary across quarterbacks?
+- What is the relationship between passing yards and EPA per attempt?
+
+## Data
+
+The data comes from nflverse and was accessed using the `nflreadr` R package.
+
+The analysis uses 2025 regular-season player statistics.
+
+## Metrics
+
+The analysis includes:
+
+- Passing attempts
+- Completions
+- Passing yards
+- Passing touchdowns
+- Interceptions
+- Passing EPA
+- Completion percentage
+- Yards per attempt
+- EPA per attempt
+
+## Tools
+
+- R
+- nflreadr
+- dplyr
+- ggplot2
+- readr
 
 ###  Baseball Analytics
 Exploration of baseball data to identify trends and evaluate player performance.
