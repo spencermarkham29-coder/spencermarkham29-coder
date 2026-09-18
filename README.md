@@ -1,4 +1,18 @@
-## Hi there 👋
+## Spencer Markham
+Data Analytics | Sports Analytics
+
+SKILLS
+------
+Python
+R
+SQL
+Data Visualization
+Statistics
+Machine Learning
+
+CONTACT
+-------
+spencermarkham29@gmail.com
 
 <!--
 **spencermarkham29-coder/spencermarkham29-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
